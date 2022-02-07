@@ -1,1 +1,46 @@
+body {
+  background: #fffff0;
+  margin:100px;
+  font-family: Helvetica, arial, sans-serif;
+   
+}
 
+p, li {
+  color:#2e2d2d; 
+  font-family: Times New Roman, helvetica, sans-serif;
+  font-size:14px;
+  line-height: 1.6;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+  color:#8a8888; 
+}
+    
+ul{list-style-type: circle;
+}
+
+.Liberty1{
+  margin:20px;
+  
+}
+
+.Liberty2{
+  margin:20px:
+}
+
+.Liberty3{
+  margin:20px:
+}
+
+
+h5 {text-transform:uppercase;
+}
+
+p{
+  max-width: 800px;
+}
+
+li {
+  max-width: 800px;
+}
