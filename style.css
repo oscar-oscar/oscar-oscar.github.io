@@ -9,7 +9,7 @@ body {
     font-family: Franklin Gothic, arial, sans-serif;
     font-weight: lighter;
     font-size: 36px;
-    line-height: 1;
+    line-height: 1px;
     text-align: center;
     
 }
@@ -27,9 +27,10 @@ body {
 }
 
 .summarypro {
+  padding:10px;
   font-family: Times, serif;
   font-style:italic;
-  border-top:1px dotted; 
+  border-top:5px dotted; 
 }
 
 
@@ -69,15 +70,24 @@ h4 {
 
 .Liberty1{
   margin:20px;
+  font-family: Franklin Gothic, arial, sans-serif;
+  font-weight: lighter;
+  line-height: 1px;
   
 }
 
 .Liberty2{
-  margin:2x:
+  margin:20px;
+  font-family: Franklin Gothic, arial, sans-serif;
+  font-weight: lighter;
+  line-height: 1px;
 }
 
 .Liberty3{
-  margin:20px:
+  margin:20px;
+  font-family: Franklin Gothic, arial, sans-serif;
+  font-weight: lighter;
+  line-height: 1px;
 }
 
 
@@ -85,6 +95,7 @@ h5 {
   text-transform:uppercase;
   font-family: Franklin Gothic, arial, sans-serif;
   font-weight: bold;
+  
 }
 
 
